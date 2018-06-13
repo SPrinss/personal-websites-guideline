@@ -24,7 +24,7 @@
 Irregular posts about web dev stuff I learned. 
 
 Topics include:
-Polymer 
+Polymer
 Lit-html / native
 Firebase
 PWA
@@ -41,10 +41,11 @@ Notifications
 - Made for text
 - Mobile first
 
+
 One site with three choices?
 1. Who are you?
-  - Cognitive neuroscientist turned web developer. Also have some startup experience.
+*Cognitive neuroscientist turned web developer. Also have some startup experience.*
 2. How can you help me?
-  - I can build a web app (prototype) for your idealistic project/business
+*I can build a web app (prototype) for your idealistic project/business*
 3. What can I learn from you?
-  - I'm using Polymer and Firebase to build PWA's. I'll share what I learned using the latest techniques. 
+*I'm using Polymer and Firebase to build PWA's. I'll share what I learned using the latest techniques.*
